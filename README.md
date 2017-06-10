@@ -3,7 +3,8 @@ Implementation of a font of chars and ints that are 2 cols x 5 rows (10 pixels),
 
 On 08.06.2017 @whaleyGeek released his awesome clock app for micro:bit.
 One thing this app had was a cool font used to show 2 ints on-screen at the same time.
-https://github.com/whaleygeek/mb_clock/blob/master/clock.py
+Clock: https://github.com/whaleygeek/mb_clock/blob/master/clock.py
+Just WhaleySansa: https://github.com/whaleygeek/bitio/blob/master/src/microbit/font2x5.py
 
 In effect, WhaleyGeek had created the basis of a new font for micro:bit, and done so as a byproduct of the clock.
 This Font, which we christened WhaleySans on twitter, included render data for all 10 integers.
